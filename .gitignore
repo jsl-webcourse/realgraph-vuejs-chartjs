@@ -6,6 +6,9 @@ node_modules
 # local env files
 .env.local
 .env.*.local
+src/assets/App.vue
+src/assets/Graph.vue
+src/assets/MyChart.vue
 
 # Log files
 npm-debug.log*
